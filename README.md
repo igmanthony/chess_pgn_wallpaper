@@ -7,13 +7,18 @@ After all dependencies are installed, ensure a .pgn file is in the "/pgns" folde
 
 Five example wallpapers with their pgn files have been included in the repository:
 
+## One of Greco's famous games against the infamous "nn"
 ![One of Greco's famous games against the infamous "nn"](1620_greco_nn.png)
 
+## The classic miniature, the Opera game
 ![The classic miniature, the Opera game](1858_morphy_duke_karl_count_isouard.png)
 
-![A quick win by Fisher](1963_fisher_fine.png)
+## A quick win by Fisher
+![A quick win by Fisher](1963_fischer_fine.png)
 
+## A quick win by Carlsen
 ![A quick win by Carlsen](2003_hammer_carlsen.png)
 
+## The classic Budapest Gambit trap
 ![The classic Budapest Gambit trap](budapest_gambit_trap.png)
 
