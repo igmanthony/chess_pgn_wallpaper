@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "?"]
+[Black "?"]
+[ECO "?"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6
+5. Bf4 Bb4+ 6. Nbd2 Qe7 7. a3 Ngxe5 8. Nxe5 Nxe5
+9. axb4 Nd3# 0-1

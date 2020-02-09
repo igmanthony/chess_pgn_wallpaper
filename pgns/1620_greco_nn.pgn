@@ -1,0 +1,15 @@
+[Event "Unknown"]
+[Site "unknown"]
+[Date "1620.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Gioachino Greco"]
+[Black "NN"]
+[ECO "C31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "19"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. Nf3 exf4+ 6. Kf2
+Bc5+ 7. d4 Bd6 8. Bb5+ Kf8 9. Re1 Qf5 10. Re8# 1-0
