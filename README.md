@@ -1,4 +1,4 @@
-# chess_pgn_wallpaper
+# Chess miniature desktop wallpaper generator
 Python script to generate a 4k grayscale desktop background or wallpaper from a chess PGN "miniature" file of ~25 or fewer moves (~50 ply). 
 
 Requires the Python Chess, Numpy, ImageIO SciPy, and Matplotlib libraries. All librariers except the chess library are included in the Anaconda distribution of Python. For the Chess library type "pip install python-chess" into a terminal or command prompt window once python has been installed.
